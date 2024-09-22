@@ -1,0 +1,54 @@
+So whenever you learn something new, you have this thought asking why should you learn it?
+
+So Java has it's own features, let's explore one by one.
+
+Ready?
+
+HIGH LEVEL
+    because it is written in a human-readable language, making it easier for programmers to understand and use
+
+OBJECT-ORIENTED
+    centered around the concept of objects, which represent real-world entities
+
+MULTITHREADED
+  Now, what is a thread?    Thread is nothing but a direction or path that is taken while a program is being executed
+
+  Java is multithreaded because it uses many threads at once to perform a task while these threads run in parallel to accomplish their given task
+
+  There are many advantages of multi-threading, let's list out them
+        Better utilization of resources
+        Improved responsiveness
+        Better user experience
+        Lower maintenance costs
+        Independent threads
+
+DYNAMIC
+    dynamic in programming means things which hasn't been finalized till execution but happen during runtime.
+
+PORTABLE
+    can run on any device which has JVM
+
+HIGH PERFORMANCE
+    Java uses the JIT(Just In Time) compiler. The compiler only compiles the method which is being called
+
+ROBUST
+    ability to handle errors and unexpected situations efficiently, ensuring stable and reliable application execution.
+    Java's exceptional robustness is a result of its comprehensive exception handling, strong type checking, automatic memory management, and compiler checks
+
+SECURE
+    primary reason for Java's security is its implementation of Java Virtual Machine(JVM)
+
+    JVM is responsible for making sure all Java code is run securely
+
+    JVM also has a set of security policies and rules that ensure only authorized code is allowed to run which means any malicious code is quickly detected and blocked, 
+    and any code that is deemed to be unsafe is not executed
+
+    ha=s a process called garbage collection, which is responsible for automatically reclaiming memory that is no longer being used which helps to reduce risk of memory leaks.
+
+    has strong Exception Handling mechanism which does not allow to run the program until you rectify the error
+
+    has access modifier/ access specifier like private, protected, public and default which helps in controlling the access of any member
+
+Well, that's the gist of it. Although there are more features, let's discuss them on the way we go, because instead of theory, we should implement and practice more.
+
+P.S Java is known for its security and almost all banking applications use this.
